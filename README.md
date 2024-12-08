@@ -1,2 +1,1 @@
-# goit-markup-hw-01.
-Розмітка
+# goit-markup-hw-01
